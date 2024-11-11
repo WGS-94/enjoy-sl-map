@@ -1,8 +1,9 @@
-# React + Vite
+# Enjoy SL Map
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://github.com/codegeous/react-component-depot/blob/master/package.json
 
-Currently, two official plugins are available:
+https://react-component-depot.netlify.app/leaflet/basic
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://cloud.maptiler.com/auth/widget?next=https://cloud.maptiler.com/maps/streets-v2/?_gl%3D1*1upwydc*_ga*MTM3ODczOTAyMC4xNzMxMzY5MjE4*_ga_K4SXYBF4HT*MTczMTM2OTIxOC4xLjEuMTczMTM2OTIyNy41MS4wLjA.
+
+https://www.youtube.com/watch?v=i9oX1upSKjI&list=PLKmmzLM3RgQVFqnNqn3CI2Cxg4Rd__VbK&index=1
