@@ -1,6 +1,7 @@
 import { useRef, useState } from "react";
 import { MapContainer, TileLayer } from "react-leaflet";
 import osm from "./components/osm-providers.js";
+// import "leaflet/dist/leaflet.css";
 import "./App.css";
 
 function App() {
@@ -13,8 +14,8 @@ function App() {
 
   return (
     <>
-      <div>
-        <MapContainer center={center} zoom={ZOOM_LEVEL} ref={mapRef}>
+      <div className="map-container">
+        <MapContainer center={center} zoom={ZOOM_LEVEL} ref={mapRef} style={{ height: "100vh" }}>
           <TileLayer
             url={osm.maptiler.url}
             attribution={osm.maptiler.atribuition}
